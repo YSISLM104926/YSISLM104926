@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm currently working on    Frontend Development<br>🤝 I'm looking to collaborate on    FullStack Ai Saas development<br>🆘 I'm looking for help with    Django Web App Development<br>📘 I'm currently learning    Advance Frontend<br>❓ Ask me about    anything<br>🎉 Fun fact    I'm brainless
+💼 I'm currently working on - Frontend Development<br>🤝 I'm looking to collaborate on - FullStack Ai Saas development<br>🆘 I'm looking for help with - Django Web App Development<br>📘 I'm currently learning - Advance Frontend<br>❓ Ask me about - anything<br>🎉 Fun fact - I'm brainless
 
 
 ## 🌐 Socials:
