@@ -1,3 +1,4 @@
+<div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
 # 💫 About Me:
 💼 I'm currently working on - Frontend Development<br>🤝 I'm looking to collaborate on - FullStack Ai Saas development<br>🆘 I'm looking for help with - Django Web App Development<br>📘 I'm currently learning - Advance Frontend<br>❓ Ask me about - anything<br>🎉 Fun fact - I'm brainless
 
@@ -25,4 +26,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lkn6dec) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ysislm0426) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
