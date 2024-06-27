@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif" style="width: 100%; height:100%" alt="">
+<img src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif" style="width: 50%; height:100%" alt="">
 
 # 💫 About Me:
 ❓ Ask me about: anything<br><br>🎉 Fun fact: I can solve a Rubik's Cube in under 2 minutes!
