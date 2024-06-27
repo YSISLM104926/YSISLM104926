@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm currently working on: Frontend Development<br><br>🤝 I'm looking to collaborate on: FullStack AI SaaS development<br><br>🆘 I'm looking for help with: Django Web App Development<br><br>📘 I'm currently learning: Advanced Frontend<br><br>❓ Ask me about: anything<br><br>🎉 Fun fact: I can solve a Rubik's Cube in under 2 minutes!
+❓ Ask me about: anything<br><br>🎉 Fun fact: I can solve a Rubik's Cube in under 2 minutes!
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=YSISLM104926&icon=0&color=0)](https://visitcount.itsvg.in) <br>
