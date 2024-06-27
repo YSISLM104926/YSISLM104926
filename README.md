@@ -1,5 +1,5 @@
 
-<img src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_ob4wyigmTV1v8xd18o1_500.gif" alt=''/>
+<img src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_ob4wyigmTV1v8xd18o1_500.gif" style={{width:'100%'}} alt=''/>
 # 💫 About Me:
 ❓ Ask me about: anything<br><br>🎉 Fun fact: I can solve a Rubik's Cube in under 2 minutes!
 <br>
