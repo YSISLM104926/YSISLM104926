@@ -1,7 +1,6 @@
 <img src="https://halftheopposite.dev/articles/modern-web-app/banner.jpg" style="width: 100%; height:100%" alt="">
 
 # 💫 About Me:
-👨‍💻 Right now working on Python & DRF<br><br>
 ❓ Ask me about: anything<br><br>🎉 Fun fact: I can solve a Rubik's Cube in under 2 minutes!
 <br>
 
