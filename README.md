@@ -1,4 +1,4 @@
-<img src="https://halftheopposite.dev/articles/modern-web-app/banner.jpg" style="width: 100%; height:100%" alt="">
+<img src="https://i.ibb.co.com/NS9TyFs/maxresdefault.png" style="width: 100%; height:100%" alt="">
 
 # 💫 About Me:
 ❓ Ask me about: anything<br><br>🎉 Fun fact: I can solve a Rubik's Cube in under 2 minutes!
